@@ -1,0 +1,15 @@
+.cart {
+  margin: 2%;
+}
+.item,
+.subtotal {
+  color: rgb(190, 55, 55);
+}
+.fa-heart{
+  color:red
+}
+.footer{
+  text-align: center;
+  background-color:black;
+  color:white;
+}
