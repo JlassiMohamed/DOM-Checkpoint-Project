@@ -1,15 +1,27 @@
 .cart {
   margin: 2%;
+  text-align: center;
 }
 .item,
 .subtotal {
   color: rgb(190, 55, 55);
 }
-.fa-heart{
-  color:red
-}
 .footer{
   text-align: center;
   background-color:black;
   color:white;
+  font-size: 12px;
+  padding-bottom: 4%;
+}
+.fa-heart:hover{
+  color: #B91917;
+}
+.cancel:hover{
+  color: red;
+}
+.plus:hover{
+  color: green;
+}
+.minus:hover{
+  color: red;
 }
